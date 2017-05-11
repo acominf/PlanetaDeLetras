@@ -1,0 +1,20 @@
+#Greenfoot properties
+#Wed May 10 18:29:30 CDT 2017
+class.Menu.superclass=greenfoot.World
+project.charset=UTF-8
+mainWindow.height=600
+class.Menu.image=Menu2.png
+class.Portada.superclass=greenfoot.World
+version=2.8.0
+class.Portada.image=Fondo1.png
+class.BJuega.image=Jugar.png
+class.Inicio.image=203X47Inicio.png
+class.BJuega.superclass=Boton
+class.Inicio.superclass=Boton
+class.Espacio.image=EstrellasNoche.png
+class.Boton.superclass=greenfoot.Actor
+world.lastInstantiated=Portada
+mainWindow.y=40
+mainWindow.x=40
+class.Espacio.superclass=greenfoot.World
+mainWindow.width=850
