@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Background
+comment0.text=\r\n\ Esta\ clase\ es\ usada\ para\ el\ scroll\ del\ juego\ la\ cual\ tiene\ una\ imagen\ que\ es\ centrada\ tanto\ en\ x\ como\r\n\ en\ y\ del\ \u00E1rea\ de\ juego.\ La\ imagen\ es\ usada\ como\ un\ Objeto\ que\ se\ mueve\ de\ la\ parte\ superior\ a\ la\r\n\ parte\ inferior\ de\ la\ pantalla.\ Para\ hacer\ la\ simulaci\u00F3n\ del\ scroll\ en\ el\ Mundo\ se\ agregan\ dos\ Objetos\r\n\ de\ este\ tipo,\ una\ imagen\ es\ centrada\ y\ la\ segunda\ imagen\ esta\ por\ la\ parte\ superior\ del\ \u00E1rea\ del\r\n\ juego\ (esta\ no\ es\ visible\ por\ primera\ vez)\ y\ entonces\ estas\ dos\ im\u00E1genes\ se\ mueven\ una\ detr\u00E1s\ de\r\n\ otra.\r\n\ \r\n
+comment1.params=
+comment1.target=Background()
+comment1.text=\r\n\ Metodo\ constructor\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ \r\n\ Act\ -\ do\ whatever\ the\ Background\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment3.params=
+comment3.target=void\ scroll()
+comment3.text=\r\n\ En\ el\ metodo\ se\ mueve\ la\ imagen\ con\ respecto\ a\ las\ cordenadas\ en\ Y\r\n
+numComments=4

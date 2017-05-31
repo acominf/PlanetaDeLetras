@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=espacio
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ espacio\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=espacio()
+comment2.params=numero
+comment2.target=void\ crearSignos(int)
+comment3.params=numero
+comment3.target=void\ crearEnergia(int)
+comment4.params=
+comment4.target=void\ ponerJefe()
+comment5.params=
+comment5.target=void\ scroll()
+comment6.params=
+comment6.target=boolean\ getAmbiente()
+comment6.text=\r\n\ cuando\ la\ instancia\ es\ false\ esta\ en\ la\ parte\ inicial\ del\ nivel\r\n\ cuando\ esta\ en\ true\ esta\ en\ la\ parte\ del\ enemigo\ final\r\n\ @return\ \ es\ el\ indicador\ de\ el\ mundo\ \ \r\n
+comment7.params=ambiente
+comment7.target=void\ setAmbiente(boolean)
+comment7.text=\r\n\ Metodo\ usado\ para\ cambiar\ el\ estado\ del\ ambiente\r\n
+numComments=8

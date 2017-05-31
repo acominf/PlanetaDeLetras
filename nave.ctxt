@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=nave
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ nave\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=void\ nave()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=direction
+comment3.target=void\ setDisparo(int)
+comment3.text=\r\n\ Esta\ clase\ es\ la\ encargada\ de\ manejar\ \ los\ disparos\ por\ medio\ de\ la\ tecla\ "espacio"\r\n\ y\ tambien\ del\ super\ poder\ con\ la\ tecla\ "c".\r\n
+comment4.params=direccion
+comment4.target=void\ setDireccion(int)
+comment4.text=\r\n\ Clase\ que\ se\ encarga\ de\ la\ siper\ velocidad\r\n\ Si\ oprimes\ x\ la\ nave\ se\ movera\ con\ mayor\ velocidad\r\n
+numComments=5
