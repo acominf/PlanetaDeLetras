@@ -28,7 +28,7 @@ Es un juego didactico para que el niño aprenda las bocales se trata de ir matan
 * Esta clase tiene dos instancias que es la velocidad de disparo y la dirección estas instancias se inicializan en su método constructor. Tiene cuatro métodos que son utilizados por su sus subclases.
 
 ### Diagrama de clases
-![Diagrama](https://lh3.googleusercontent.com/-k71G8Nzx7Xs/WTHRmssqRjI/AAAAAAAACL8/dAcTh_sp5LwT2ZmCgUs-bxsX6akxXD_pACL0B/w530-d-h356-p-rw/Diagrama%2Bde%2Bclases.png(url-del-diagrama.png)
+![Diagrama](https://lh3.googleusercontent.com/-k71G8Nzx7Xs/WTHRmssqRjI/AAAAAAAACL8/dAcTh_sp5LwT2ZmCgUs-bxsX6akxXD_pACL0B/w530-d-h356-p-rw/Diagrama%2Bde%2Bclases.png)
 
 ### Autor(es)
 El autor(es) del proyecto son:
