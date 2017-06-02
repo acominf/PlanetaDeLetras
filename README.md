@@ -3,44 +3,37 @@
 ![En construcción](https://upload.wikimedia.org/wikipedia/commons/e/ef/En_construccion.jpg)
 
 ### Objetivo del juego/aplicación
-El objetivo del juego/aplicación es ...
+El objetivo del juego/aplicación es conseguir la mas alta cantdad de puntos en cierto tiempo esquivando los signs de admiracion y 
+destryendo naves y atrapando letras 
 
 ### Descripción del juego/aplicación
-La descripción del juego/aplicación es ...
+Es un juego didactico para que el niño aprenda las bocales se trata de ir matando a los enemigos para ir acumulando puntos
 
 ### Clases principales y sus características
-1. Clase 1
-* caracteristica1
-* caracteristica2
-* caracteristica3
+1. Espacio
+* Esta clase es, la súper clase de los Niveles 1, 2 y 3. En esta se crean las instancias que tendrán cada nivel, y los métodos que se usan en los tres niveles. Las instancias utilizadas son tiempo para agregar enemigo, aliado, nube radiactiva, bonus, etc. Dentro de esta misma se crea el jugador por lo que las subclases (niveles) lo contengan todas. Algunos de los métodos dentro de esta clase son para agregar los Objetos al mundo y validar los tiempos de los Objetos. También se agregan dos Objetos para simular el Scroll y llaman a su método de movimiento. 
 
-2. Clase 2
-* caracteristica1
-* caracteristica2
-* caracteristica3
+2. Game Over
+* Esta clase tiene la responsabilidad de mostrar una imagen indicando al jugador si ha perdido en el juego y después dentro de ella misma llama al menú para regresar a las opciones de menú del juego.
 
-3. Clase 3
-* caracteristica1
-* caracteristica2
-* caracteristica3
 
-4. Clase 4
-* caracteristica1
-* caracteristica2
-* caracteristica3
+3. Boton
+* Esta es una clase padre para todo los Botones de Jugar, Ayuda, Creditos y Salir esta clase solo tiene un método que su tarea es validar si se clickea en dichos Objetos. Regresa un true indicando que se ha seleccionado el botón.
 
-5. Clase 5
-* caracteristica1
-* caracteristica2
-* caracteristica3
+
+4. Nave
+* Esta clase tiene la responsabilidad de representar a los objetos que interactúan como jugadores en el juego tanto jugador controlado como los enemigos que son la computadora. En esta clase se encuentra la instancia de disparo que es heredada a las subclases de Nave, Enemigo y LiderEnemigo.
+
+5. Shot
+* Esta clase tiene dos instancias que es la velocidad de disparo y la dirección estas instancias se inicializan en su método constructor. Tiene cuatro métodos que son utilizados por su sus subclases.
 
 ### Diagrama de clases
-![Diagrama de clases](url-del-diagrama.png)
+https://lh3.googleusercontent.com/-k71G8Nzx7Xs/WTHRmssqRjI/AAAAAAAACL8/dAcTh_sp5LwT2ZmCgUs-bxsX6akxXD_pACL0B/w530-d-h356-p-rw/Diagrama%2Bde%2Bclases.png(url-del-diagrama.png)
 
 ### Autor(es)
 El autor(es) del proyecto son:
-- Nombre completo del autor 1 (@nombreUsuarioGitHub)
-- Nombre completo del autor 2 (@nombreUsuarioGitHub)
+- Alonso Gonzales Juan Carlos (@biciadicto)
+- Govea Celestino Jose Sebastian (@ayserz119)
 
 ### Materia(s)
 - Programación Orientada a Objetos
